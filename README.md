@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a Bitcoin and Lightning developer.  
+Check out [hsjoberg/blixt-wallet](https://github.com/hsjoberg/blixt-wallet) for an open-source and non-custodial Bitcoin Lightning Wallet. ⚡
+
 <!--
 **hsjoberg/hsjoberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
